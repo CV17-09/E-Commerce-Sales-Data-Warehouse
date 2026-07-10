@@ -1,6 +1,6 @@
 # E-Commerce Sales Data Warehouse
 
-07/08/2026 An end-to-end data warehousing project that transforms raw e-commerce transaction data into a centralized PostgreSQL data warehouse for business intelligence and analytics.
+07/20/2026 An end-to-end data warehousing project that transforms raw e-commerce transaction data into a centralized PostgreSQL data warehouse for business intelligence and analytics.
 
 ## Overview
 
