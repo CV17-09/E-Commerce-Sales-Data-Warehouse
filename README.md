@@ -4,7 +4,7 @@ An end-to-end data warehousing project that transforms raw e-commerce transactio
 
 ## Overview
 
-September - This project demonstrates the design and implementation of an ETL pipeline that extracts, cleans, transforms, and loads e-commerce sales data into a star schema optimized for analytical queries. The warehouse enables efficient reporting on sales performance, customer purchasing behavior, and product trends.
+September 1 - This project demonstrates the design and implementation of an ETL pipeline that extracts, cleans, transforms, and loads e-commerce sales data into a star schema optimized for analytical queries. The warehouse enables efficient reporting on sales performance, customer purchasing behavior, and product trends.
 
 ## Features
 
