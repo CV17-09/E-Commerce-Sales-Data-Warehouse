@@ -76,4 +76,4 @@ The warehouse supports analysis such as:
 
 ---
 
-Built as a portfolio project to demonstrate data engineering, SQL, ETL, and data warehousing concepts.
+nov - Built as a portfolio project to demonstrate data engineering, SQL, ETL, and data warehousing concepts.
